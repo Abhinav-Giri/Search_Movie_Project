@@ -1,6 +1,7 @@
 Project Name & Pitch:-
 
-Search_Movie
+Search_Movie_App
+
 An application used to search movie from list of movies on user preference, built with React,JavaScript, Node,HTML and CSS.
 
 Project Status:-
