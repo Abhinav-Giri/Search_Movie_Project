@@ -6,9 +6,11 @@ An application used to search movie from list of movies on user preference, buil
 Project Status:-
 Complete
 
-Project Screen Shot(s)
+Project Screen Shots:-
 ![Screenshot (8)](https://user-images.githubusercontent.com/106602128/197339711-360d8041-cf23-4557-a411-14a84d806910.png)
+
 ![Screenshot (9)](https://user-images.githubusercontent.com/106602128/197339747-ecfdb6e2-c7c1-4ae6-a219-6771aaf57028.png)
+
 ![Screenshot (10)](https://user-images.githubusercontent.com/106602128/197339777-6bd53526-e617-4ec1-82af-91cda96f5764.png)
 
 
@@ -29,7 +31,7 @@ cd back-end
 npm install
 node index.js
 
-Check on:- localhost:4200/getAll or localhost:4200/search
+Check on: localhost:4200/getAll or localhost:4200/search
 
 To Visit App:
 localhost:3000
